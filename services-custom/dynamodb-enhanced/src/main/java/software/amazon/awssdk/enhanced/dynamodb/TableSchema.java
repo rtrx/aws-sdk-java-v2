@@ -17,7 +17,6 @@ package software.amazon.awssdk.enhanced.dynamodb;
 
 import java.util.Collection;
 import java.util.Map;
-
 import software.amazon.awssdk.annotations.SdkPublicApi;
 import software.amazon.awssdk.services.dynamodb.model.AttributeValue;
 
